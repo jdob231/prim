@@ -1,0 +1,1 @@
+There is typeA label, there is typeB label, each typeB label is prime number, typeA label is product of all typeB labels. We can find corespondence of typeB label to typeA label by calculating modulo typeA over typeB, if result is 0, typeB is member to group typeA.
